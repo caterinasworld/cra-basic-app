@@ -1,1 +1,1 @@
-# react-books-app
+# GOT Books App (React)
